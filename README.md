@@ -89,6 +89,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
 * [Vincent Reuss](http://github.com/vichenze), développeur
+* [Raphael Richard](http://www.raphaelrichard.net), formateur IA et marketing digital
 * [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner 
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
